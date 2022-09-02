@@ -1,0 +1,12 @@
+header{
+    background-image: map-get($colores , "primario");
+}
+header nav{
+    background-image: map-get($colores , "secundario");
+}
+header h3{
+    font-size: 70px;
+}
+#navbarNavAltMarkup div a{
+    font-size: 30px;
+}

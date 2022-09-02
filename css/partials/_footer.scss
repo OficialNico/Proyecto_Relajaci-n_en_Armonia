@@ -1,0 +1,9 @@
+.footer h4{
+    background-image: map-get($colores , "secundario");
+}
+.footer nav{
+    background-image: map-get($colores , "secundario");
+}
+#navbarNavAltMarkup a{
+    font-size: 30px;
+}
