@@ -2,7 +2,7 @@ body{
     background-image: map-get($colores , "primario");
 }
 main section h2{
-        font-size: 70px;
+        @extend .Primerh3;
 }
 .subti_precios{
     background-image: map-get($colores , "primario");
