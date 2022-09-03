@@ -4,3 +4,6 @@ body{
 main section h2{
         font-size: 70px;
 }
+.subti_precios{
+    background-image: map-get($colores , "primario");
+}
