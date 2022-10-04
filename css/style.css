@@ -35,6 +35,10 @@ body {
   background-image: linear-gradient(-225deg, #A8BFFF 0%, #884D80 100%);
 }
 
+.footer h4 {
+  font-size: 40px;
+}
+
 #navbarNavAltMarkup a {
   font-size: 30px;
 }
@@ -44,7 +48,7 @@ nav div a:hover {
 }
 
 .row, .mapa {
-  margin-top: 10px;
+  margin-top: 30px;
 }
 
 * * {
