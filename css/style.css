@@ -15,6 +15,10 @@ header nav {
   font-size: 30px;
 }
 
+#navbarNavAltMarkup a:hover {
+  background-color:rgba(184, 88, 184, 0.964);
+}
+
 .pservicios {
   font-size: 25px;
 }
