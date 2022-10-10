@@ -17,6 +17,15 @@ header nav {
 
 #navbarNavAltMarkup a:hover {
   background-color:rgba(184, 88, 184, 0.964);
+  border-radius: 5px;
+}
+
+.descripqn:hover{
+  border-radius: 5px;
+  transition: all .5s;
+  background-color:rgba(207, 138, 207, 0.964);
+  transform: scale(1.1) translate(-10px);
+  box-shadow: rgba(67, 223, 223, 0.674) 0px 19px 38px, rgba(0, 0.22) 0px 15px 12px;
 }
 
 .pservicios {
@@ -24,22 +33,25 @@ header nav {
 }
 
 .caja1:hover{
+  transition: all .5s;
   border-radius: 5px;
-  background-color: rgb(102, 84, 201);
+  background-color: rgba(207, 138, 207, 0.964);
   transform: scale(1.1) translate(-40px);
   box-shadow: rgba(67, 223, 223, 0.674) 0px 19px 38px, rgba(0, 0.22) 0px 15px 12px;
 }
 
 .caja2:hover{
+  transition: all .5s;
   border-radius: 5px;
-  background-color: rgb(102, 84, 201);
+  background-color: rgba(207, 138, 207, 0.964);
   transform: scale(1.1) translate(-40px);
   box-shadow: rgba(67, 223, 223, 0.674) 0px 19px 38px, rgba(0, 0.22) 0px 15px 12px;
 }
 
 .caja3:hover{
+  transition: all .5s;
   border-radius: 5px;
-  background-color: rgb(102, 84, 201);
+  background-color: rgba(207, 138, 207, 0.964);
   transform: scale(1.1) translate(-40px);
   box-shadow: rgba(67, 223, 223, 0.674) 0px 19px 38px, rgba(0, 0.22) 0px 15px 12px;
 }
