@@ -24,7 +24,7 @@ header nav {
   border-radius: 5px;
   transition: all .5s;
   background-color:rgba(207, 138, 207, 0.964);
-  transform: scale(1.1) translate(-10px);
+  transform: scale(1.0) translate(-10px);
   box-shadow: rgba(67, 223, 223, 0.674) 0px 19px 38px, rgba(0, 0.22) 0px 15px 12px;
 }
 
@@ -36,24 +36,26 @@ header nav {
   transition: all .5s;
   border-radius: 5px;
   background-color: rgba(207, 138, 207, 0.964);
-  transform: scale(1.1) translate(-40px);
-  box-shadow: rgba(67, 223, 223, 0.674) 0px 19px 38px, rgba(0, 0.22) 0px 15px 12px;
+  transform: scale(1.0) translate(-10px);
+  box-shadow: rgba(67, 223, 223, 0.674) 0px 15px 30px, rgba(0, 0.22) 0px 11px 7px;
 }
 
 .caja2:hover{
   transition: all .5s;
   border-radius: 5px;
   background-color: rgba(207, 138, 207, 0.964);
-  transform: scale(1.1) translate(-40px);
-  box-shadow: rgba(67, 223, 223, 0.674) 0px 19px 38px, rgba(0, 0.22) 0px 15px 12px;
+  transform: scale(1.0) translate(-10px);
+  box-shadow: rgba(67, 223, 223, 0.674) 0px 15px 30px, rgba(0, 0.22) 0px 10px 7px;
+  margin-top: 1px;
+  margin-bottom: 1px;
 }
 
 .caja3:hover{
   transition: all .5s;
   border-radius: 5px;
   background-color: rgba(207, 138, 207, 0.964);
-  transform: scale(1.1) translate(-40px);
-  box-shadow: rgba(67, 223, 223, 0.674) 0px 19px 38px, rgba(0, 0.22) 0px 15px 12px;
+  transform: scale(1.0) translate(-10px);
+  box-shadow: rgba(67, 223, 223, 0.674) 0px 15px 30px, rgba(0, 0.22) 0px 10px 7px;
 }
 
 .pservicios p{
